@@ -1,0 +1,1 @@
+bucket_name = "workshop-ugsr-gabriel-2026"
